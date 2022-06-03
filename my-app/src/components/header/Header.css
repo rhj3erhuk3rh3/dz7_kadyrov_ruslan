@@ -1,0 +1,15 @@
+.header {
+    width: 1200px;
+    height: 100px;
+    background: darkblue;
+    margin: 0 auto;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
